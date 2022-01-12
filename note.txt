@@ -1,0 +1,5 @@
+go guild helloworld.go
+go run helloworld.go
+
+tutorial :
+https://www.youtube.com/watch?v=Y0ZjeA7iYic&list=PL-CtdCApEFH_t5_dtCQZgWJqWF45WRgZw&index=16
